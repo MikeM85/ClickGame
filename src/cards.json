@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "assets/images/brendon.jpg",
+    "character": "Brendon Small"
+  },
+    {
+      "id": 2,
+      "image": "assets/images/McGuirk.jpg",
+      "character": "Coach John McGurik"
+    },
+    {
+      "id": 3,
+      "image": "/assets/images/",
+      "character": "Character"
+    },
+    {
+      "id": 4,
+      "image": "/assets/images/",
+      "character": "Character"
+    },
+    {
+      "id": 5,
+      "image": "/assets/images/",
+      "character": "Character"
+    },
+    {
+      "id": 6,
+      "image": "/assets/images/",
+      "character": "Character"
+    },
+    {
+      "id": 7,
+      "image": "/assets/images/",
+      "character": "Character"
+    },
+    {
+      "id": 8,
+      "image": "/assets/images/",
+      "character": "Character"
+    },
+    {
+      "id": 9,
+      "image": "/assets/images/",
+      "character": "Character"
+    },
+    {
+      "id": 10,
+      "image": "/assets/images/",
+      "character": "Character"
+    },
+    {
+      "id": 11,
+      "image": "/assets/images/",
+      "character": "Character"
+    },
+    {
+      "id": 12,
+      "image": "/assets/images/",
+      "character": "Character"
+    }
+  ]
