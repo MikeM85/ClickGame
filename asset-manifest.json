@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ClickGame/static/css/main.e514c1a4.chunk.css",
-    "main.js": "/ClickGame/static/js/main.350b11a9.chunk.js",
-    "main.js.map": "/ClickGame/static/js/main.350b11a9.chunk.js.map",
-    "runtime~main.js": "/ClickGame/static/js/runtime~main.979c4616.js",
-    "runtime~main.js.map": "/ClickGame/static/js/runtime~main.979c4616.js.map",
-    "static/js/2.884c28c3.chunk.js": "/ClickGame/static/js/2.884c28c3.chunk.js",
-    "static/js/2.884c28c3.chunk.js.map": "/ClickGame/static/js/2.884c28c3.chunk.js.map",
-    "index.html": "/ClickGame/index.html",
-    "precache-manifest.f9d971917b1b6d09706186de99ceb3af.js": "/ClickGame/precache-manifest.f9d971917b1b6d09706186de99ceb3af.js",
-    "service-worker.js": "/ClickGame/service-worker.js",
-    "static/css/main.e514c1a4.chunk.css.map": "/ClickGame/static/css/main.e514c1a4.chunk.css.map"
+    "main.css": "/HomeMoviesGame/static/css/main.e514c1a4.chunk.css",
+    "main.js": "/HomeMoviesGame/static/js/main.bb3f53ea.chunk.js",
+    "main.js.map": "/HomeMoviesGame/static/js/main.bb3f53ea.chunk.js.map",
+    "runtime~main.js": "/HomeMoviesGame/static/js/runtime~main.f7d082f6.js",
+    "runtime~main.js.map": "/HomeMoviesGame/static/js/runtime~main.f7d082f6.js.map",
+    "static/js/2.884c28c3.chunk.js": "/HomeMoviesGame/static/js/2.884c28c3.chunk.js",
+    "static/js/2.884c28c3.chunk.js.map": "/HomeMoviesGame/static/js/2.884c28c3.chunk.js.map",
+    "index.html": "/HomeMoviesGame/index.html",
+    "precache-manifest.61420e825af8496642b555d66527e7d2.js": "/HomeMoviesGame/precache-manifest.61420e825af8496642b555d66527e7d2.js",
+    "service-worker.js": "/HomeMoviesGame/service-worker.js",
+    "static/css/main.e514c1a4.chunk.css.map": "/HomeMoviesGame/static/css/main.e514c1a4.chunk.css.map"
   }
 }
